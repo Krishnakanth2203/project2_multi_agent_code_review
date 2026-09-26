@@ -1,0 +1,32 @@
+{
+  "pullRequest": {
+    "owner": "Krishnakanth2203",
+    "repo": "Demo",
+    "number": 1
+  },
+  "fileReviews": [],
+  "summary": {
+    "totalFiles": 0,
+    "overallScore": 0,
+    "criticalIssues": 0,
+    "highPriorityTests": 0,
+    "refactoringOpportunities": 0
+  },
+  "recommendations": [
+    {
+      "priority": "critical",
+      "category": "Analysis Failure",
+      "description": "Unable to retrieve pull request #1 from repository Krishnakanth2203/Demo. The GitHub API returned 'Not Found' error. Please verify the repository exists, the PR number is correct, and appropriate access permissions are granted.",
+      "files": []
+    }
+  ],
+  "metadata": {
+    "analyzedAt": "2026-09-26T00:00:00.000Z",
+    "duration": 0,
+    "agentVersions": {
+      "code-quality-analyzer": "1.0.0",
+      "test-coverage-analyzer": "1.0.0",
+      "refactoring-suggester": "1.0.0"
+    }
+  }
+}
